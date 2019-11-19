@@ -1,0 +1,69 @@
+
+
+HS<size> - Heading Standard
+    HS1
+    HS2
+    HS3
+    HS4
+    HS5
+    HS6
+HU<size> - Heading Underlined
+    HU1
+    HU2
+    HU3
+    HU4
+    HU5
+    HU6
+HN<size> - Heading Numbered
+
+TS<size> - Title Standard
+    TS1
+    TS2
+    TS3
+    TS4
+    TS5
+    TS6
+TU<size> - Title Underlined
+    TU1
+    TU2
+    TU3
+    TU4
+    TU5
+    TU6
+TN<size>- Title Numbered
+
+IN<size> - Introduction
+    IN1
+    IN2
+    IN3
+    IN4
+
+PS<size> - Paragraph Standard
+PL<size> - Paragraph Leading
+PC<size> - Paragraph Center
+
+**<text>** - Bold
+^^<text>^^ - Italic
+__<text>__ - Underline
+!!<text>!! - Keyboard
+++<text>++ - Superscript
+--<text>-- - Subscript
+%%<text>%% - Current Date & Time
+
+$<math>$ - ascii math 
+
+CS - Code Block Start
+CE - Code Block End
+
+SP - Blank Space Fixed
+SP<size> - Blank Space Adjustable
+BP - Break Page
+NP - New Page
+
+TOC - Table of Contence
+
+[lorem] - Lorem ipsum
+
+[img:<text>]<size> - Image
+
+[ref:<text>] - Reference
