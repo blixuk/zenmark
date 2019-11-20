@@ -224,7 +224,7 @@ class Tokenizer:
 		f.write(f'<svg version="1.2" baseProfile="tiny" height="{self.paperHeight}" width="{self.paperWidth}" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">\n')
 		f.write('<defs />\n')
 		f.write('<rect fill="white" height="100%" width="100%" x="0" y="0" />\n')
-		f.write('<rect fill="white" height="1082.5" stroke="rgb(10%,10%,16%)" width="753.7" x="20" y="20" />\n')
+		#f.write('<rect fill="white" height="1082.5" stroke="rgb(10%,10%,16%)" width="753.7" x="20" y="20" />\n')
 		f.write(f'<g font-family="{self.fontFamily}" font-size="{self.fontSize}">\n')
 		f.write(f'<text x="50" y="{self.paperMarginTop}" dy="0">\n')
 
